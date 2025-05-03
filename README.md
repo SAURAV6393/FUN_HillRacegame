@@ -35,3 +35,10 @@ Stay fueled, climb as far as you can, and avoid crashing!
 1. ✅ **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/FUN_HillRacegame.git
+2. ✅ Install dependencies:
+    pip install pygame
+
+3. ✅ Run the game:
+   python hill_climb_game.py
+
+   
